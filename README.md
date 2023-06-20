@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'><a href="https://app.daily.dev/nowsir"><img src="https://api.daily.dev/devcards/d82e3f524f3c4b7bb1010d66cde0215e.png?r=qrt" width="400" alt="Piyawat Jangin's Dev Card"/></a></p>
+<p align='center'><a href="https://app.daily.dev/nowsir"><img src="https://api.daily.dev/devcards/d82e3f524f3c4b7bb1010d66cde0215e.png?r=amq" width="400" alt="Piyawat Jangin's Dev Card"/></a></p>
 # 💫 Objective:
 🔭 Highly skilled front-end developer with 1.5 years of experience seeking a challenging position to utilize my technical expertise and creative problem-solving skills to deliver outstanding user experiences.
 
