@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align='center'><a href="https://app.daily.dev/nowsir"><img src="https://api.daily.dev/devcards/d82e3f524f3c4b7bb1010d66cde0215e.png?r=amq" width="400" alt="Piyawat Jangin's Dev Card"/></a></p>
 # 💫 Objective:
-🔭 Highly skilled front-end developer with 1.5 years of experience seeking a challenging position to utilize my technical expertise and creative problem-solving skills to deliver outstanding user experiences.
+🔭 Highly skilled front-end developer with 2 years of experience seeking a challenging position to utilize my technical expertise and creative problem-solving skills to deliver outstanding user experiences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nowsir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/piyawat-jangin-bb3623263)
